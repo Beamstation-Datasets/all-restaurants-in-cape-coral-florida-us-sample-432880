@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Cape Coral, Florida with a population of over 194k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Cape Coral, Florida, US",
+  "export_job_id": "f6392518-9ae5-490c-b736-27d36c151d27",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 432880,
+  "location_name": "Cape Coral",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-cape-coral-florida-us-sample-432880",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/432880/beamstation_432880_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 61,
+  "sample_sha256": "0a7c5959e9c8cd0f7fb3e2988a9b1364f122182372ec2f5db580ee0032f092ad",
+  "sample_size_bytes": 231109,
+  "total_records": 611,
+  "updated_at": "2026-04-07T10:47:47.294127+00:00"
+}
