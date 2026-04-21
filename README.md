@@ -1,6 +1,6 @@
 # All Restaurants in Cape Coral, Florida, US
 
-> Free BeamStation sample export with 57 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `432880` |
 | Location | Cape Coral |
 | Category | Restaurants |
-| Full dataset size | 579 records |
-| Free sample size | 57 records (9.84%) |
-| Last export | 2026-04-14T10:41:33.529622+00:00 |
+| Full dataset size | 420 records |
+| Free sample size | 42 records (10.0%) |
+| Last export | 2026-04-21T10:59:03.005051+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cape-coral-florida-us-sample-432880/releases/download/sample-latest/beamstation_432880_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
