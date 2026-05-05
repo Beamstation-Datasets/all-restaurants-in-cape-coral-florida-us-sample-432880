@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22af316b-6837-42e8-a1db-32fac9df6c80",
+  "export_job_id": "0fa78fcb-6a75-407a-93f1-65250d5c08b7",
   "id_short": 432880,
-  "published_at": "2026-04-28T19:09:54Z",
+  "published_at": "2026-05-05T19:08:40Z",
   "repo_name": "all-restaurants-in-cape-coral-florida-us-sample-432880",
   "sample_asset_name": "beamstation_432880_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/432880/beamstation_432880_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "ecd937c6d3c7234832a5b3a9f1b9e4b2386753515c755c0e9915eba18f19b0b8",
-  "sample_size_bytes": 222768,
-  "total_records": 603
+  "sample_records": 61,
+  "sample_sha256": "cd96ac120053ed84d59c26f01a3530d93d69ced2965b47f0dd7c342baaeb062b",
+  "sample_size_bytes": 222626,
+  "total_records": 618
 }
